@@ -1,6 +1,6 @@
 <?php 
 	require "_helpers/index.php"; 
-	echo siteHeader("Dog"); //chama a função para retornar o Header
+	echo siteHeader("Dog"); //chama a função para retornar o Header - rm95125
 ?>
     
     <section class="container mt-5 mb-5">
